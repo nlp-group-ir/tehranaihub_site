@@ -189,6 +189,11 @@ fieldset[disabled] .btn-xl.active {
     font-variant: small-caps;
 }
 
+.navbar-header {
+    display: flex;
+    align-items: center;
+}
+
 .navbar-default .navbar-brand {
     font-family: "Vazirmatn", "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
