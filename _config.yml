@@ -6,53 +6,45 @@ title: Tehran AI Hub
 email: info@tehranaihub.com
 description: "آموزش هوش مصنوعی"
 
+rtl: rtl
 lang: fa_IR
+locale: fa-IR
 
 # Team names, titles and social links
 people:
-- name: دکتر محمدرضا نیری
-  pic: 1
-  position: مدرس
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
 - name: دکتر مصطفی توسلی‌پور
-  pic: 2
-  position: مدرس
+  pic: tavassolipour
+  position: استاد دانشگاه تهران
   social:
-    - title: twitter
+    - title: globe
       url: #
-    - title: facebook
+    - title: linkedin
+      url: #
+- name: دکتر محمدجواد دوستی
+  pic: dousti
+  position: استاد دانشگاه تهران
+  social:
+    - title: globe
+      url: https://www.mjdousti.com
+    - title: linkedin
+      url: https://www.linkedin.com/in/mjdousti
+- name: دکتر رضوان نصیری
+  pic: nasiri
+  position: استاد دانشگاه تهران
+  social:
+    - title: globe
+      url: #
+    - title: linkedin
+      url: #
+- name: دکتر محمدرضا نیری
+  pic: nayyeri
+  position: استاد دانشگاه تهران
+  social:
+    - title: globe
       url: #
     - title: linkedin
       url: #
 
-- name: دکتر رضوان نصیری
-  pic: 3
-  position: مدرس
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: دکتر محمدجواد دوستی
-  pic: 4
-  position: مدرس
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
