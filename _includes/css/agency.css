@@ -874,3 +874,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.row{
+    margin-left:-15px;
+    margin-right:-15px;
+    display: flex;
+    justify-content: center;
+}
