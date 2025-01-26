@@ -372,6 +372,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-40.446239,-68.033367)">
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0baedd;stroke-width:1.49189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2275-5"
+       cx="110.33361"
+       cy="140.01593"
+       rx="69.141426"
+       ry="71.236618" />
     <g
        id="g1178"
        transform="matrix(0.35277777,0,0,-0.35277777,51.593418,175.05126)"
@@ -628,12 +635,5 @@
          y="189.17928"
          id="tspan1286"
          style="stroke-width:0.352778">I</tspan></text>
-    <ellipse
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0baedd;stroke-width:1.49189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path2275-5"
-       cx="110.33361"
-       cy="140.01593"
-       rx="69.141426"
-       ry="71.236618" />
   </g>
 </svg>
