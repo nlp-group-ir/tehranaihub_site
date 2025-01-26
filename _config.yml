@@ -44,6 +44,14 @@ people:
       url: https://ece.ut.ac.ir/~m.nayeri
     - title: linkedin
       url: https://ir.linkedin.com/in/mohammad-reza-nayeri
+- name: دکتر مصطفی ارسالی صالحی نسب
+  pic: salehi
+  position: استاد دانشگاه تهران
+  social:
+    - title: website
+      url: https://ece.ut.ac.ir/~mersali
+    - title: linkedin
+      url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
