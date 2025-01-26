@@ -19,6 +19,10 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.col-md-4, .col-sm-4 {
+    float: right;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
