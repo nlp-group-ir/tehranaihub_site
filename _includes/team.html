@@ -18,7 +18,11 @@
                             {% for network in member.social %}
                             <li>
                                 <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
+                                    <i class="{% if network.title == 'globe' %}
+                                        fa fa-globe
+                                        {% else %}
+                                        fa-brands {{ network.title }}
+                                        {% endif %}"></i>
                                 </a>
                             </li>
                             {% endfor %}
