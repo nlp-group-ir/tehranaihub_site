@@ -23,6 +23,12 @@ body {
     float: right;
 }
 
+@media (min-width: 768px) {
+    .col-sm-4 {
+      width: 25%;
+    }
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
