@@ -196,7 +196,10 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Vazirmatn", "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    background: linear-gradient(to right, red, white, green);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -305,9 +308,9 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
-    font-style: italic;
-    line-height: 22px;
+    font-size: 17px;
+    font-style: normal;
+    line-height: 17px;
     font-variant: small-caps;
 }
 
@@ -329,9 +332,9 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        font-size: 32px;
+        font-style: normal;
+        line-height: 32px;
         font-variant: small-caps;
     }
 
