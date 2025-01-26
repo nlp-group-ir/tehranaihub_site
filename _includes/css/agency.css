@@ -297,11 +297,13 @@ header {
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
+    width: 100vw; /* Ensure the header spans the full viewport width */
+    height: 100vh; /* Set height to cover the full viewport height */
 }
 
 header .intro-text {
