@@ -304,6 +304,7 @@ header {
     -o-background-size: cover;
     width: 100vw; /* Ensure the header spans the full viewport width */
     height: 100vh; /* Set height to cover the full viewport height */
+    min-height: -webkit-fill-available; /* Fallback for Chrome on iOS */
 }
 
 header .intro-text {
