@@ -16,15 +16,15 @@ people:
   pic: tavassolipour
   position: استاد دانشگاه تهران
   social:
-    - title: globe
-      url: #
+    - title: website
+      url: https://ece.ut.ac.ir/~tavassolipour
     - title: linkedin
-      url: #
+      url: https://ir.linkedin.com/in/mostafa-tavassolipour-92790884
 - name: دکتر محمدجواد دوستی
   pic: dousti
   position: استاد دانشگاه تهران
   social:
-    - title: globe
+    - title: website
       url: https://www.mjdousti.com
     - title: linkedin
       url: https://www.linkedin.com/in/mjdousti
@@ -32,18 +32,18 @@ people:
   pic: nasiri
   position: استاد دانشگاه تهران
   social:
-    - title: globe
-      url: #
+    - title: website
+      url: https://ece.ut.ac.ir/~rezvan.nasiri
     - title: linkedin
-      url: #
+      url: https://ir.linkedin.com/in/rezvan-nasiri-9154b8126
 - name: دکتر محمدرضا نیری
   pic: nayyeri
   position: استاد دانشگاه تهران
   social:
-    - title: globe
-      url: #
+    - title: website
+      url: https://ece.ut.ac.ir/~m.nayeri
     - title: linkedin
-      url: #
+      url: https://ir.linkedin.com/in/mohammad-reza-nayeri
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
