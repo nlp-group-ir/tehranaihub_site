@@ -3,15 +3,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">همه‌ حقوق برای {{ site.title }} محفوظ می‌باشد.</span>
-                </div>
-                <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         {% for network in site.social %}
                         <li><a href="{{ network.url }}"><i class="fa-brands fa-{{ network.title }}"></i></a>
                         </li>
                         {% endfor %}
                     </ul>
+                </div>
+                <div class="col-md-4">
+                    <span class="copyright">همه‌ حقوق برای {{ site.title }} محفوظ می‌باشد.</span>
                 </div>
                 <!--
                 <div class="col-md-4">
