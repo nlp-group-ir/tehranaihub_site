@@ -1,0 +1,363 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="396.21" height="408.09"><svg id="SvgjsSvg1271" viewBox="0 0 396.21 408.09" version="1.1" sodipodi:docname="Artboard 2.svg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview id="SvgjsSodipodi:namedview1270" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="2.139234" inkscape:cx="197.96806" inkscape:cy="203.81127" inkscape:window-width="2560" inkscape:window-height="1367" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="layer1"></sodipodi:namedview>
+  <defs id="SvgjsDefs1269">
+    <style id="SvgjsStyle1268">
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #0baedd;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-8 {
+        stroke-miterlimit: 11.34;
+        stroke-width: 4.23px;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        stroke: #0baedd;
+      }
+
+      .cls-8, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-9, .cls-2, .cls-10, .cls-15 {
+        fill: none;
+      }
+
+      .cls-9, .cls-10, .cls-15 {
+        stroke-miterlimit: 8;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-10 {
+        stroke-width: 4.5px;
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-15 {
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-26 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-23);
+      }
+    </style>
+    <clipPath id="SvgjsClipPath1267">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1266"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1265">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1264"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1263">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1262"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1261">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1260"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1259">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1258"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1257">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1256"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1255">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1254"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1253">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1252"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1251">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1250"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1249">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1248"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1247">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1246"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1245">
+      <rect class="cls-2" x="-166.4" y="-40.44" width="960" height="540" id="SvgjsRect1244"></rect>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1243">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1242"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1241">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1240"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1239">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1238"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1237">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1236"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1235">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1234"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1233">
+      <rect class="cls-2" x="-166.4" y="-40.44" width="960" height="540" id="SvgjsRect1232"></rect>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1231">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1230"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1229">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1228"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1227">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1226"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1225">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1224"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1223">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1222"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1221">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1220"></ellipse>
+    </clipPath>
+    <clipPath id="SvgjsClipPath1219">
+      <ellipse class="cls-2" cx="197.78" cy="203.61" rx="194" ry="199.88" id="SvgjsEllipse1218"></ellipse>
+    </clipPath>
+  </defs>
+  <g id="SvgjsG1217">
+    <ellipse id="SvgjsEllipse1216" class="cls-8" cx="198.11" cy="204.05" rx="195.99" ry="201.93"></ellipse>
+    <g class="cls-24" clip-path="url(#clippath)" id="SvgjsG1215">
+      <g id="SvgjsG1214">
+        <path id="SvgjsPath1213" class="cls-1" d="m31.6,303.36v-128.56l48.4-23.98,48.4,23.98v128.56H31.6Z"></path>
+      </g>
+    </g>
+    <g class="cls-18" clip-path="url(#clippath-1)" id="SvgjsG1212">
+      <g id="SvgjsG1211">
+        <path id="SvgjsPath1210" class="cls-15" d="m31.6,303.36v-128.56l48.4-23.98,48.4,23.98v128.56H31.6Z"></path>
+      </g>
+    </g>
+    <g class="cls-11" clip-path="url(#clippath-2)" id="SvgjsG1209">
+      <g id="SvgjsG1208">
+        <path id="SvgjsPath1207" class="cls-1" d="m215.45,339.55l-101.62-117.3H46.49l-101.63,117.3H215.45Z"></path>
+      </g>
+    </g>
+    <g class="cls-26" clip-path="url(#clippath-3)" id="SvgjsG1206">
+      <g id="SvgjsG1205">
+        <path id="SvgjsPath1204" class="cls-15" d="m215.45,339.55l-101.62-117.3H46.49l-101.63,117.3H215.45Z"></path>
+      </g>
+    </g>
+    <g class="cls-19" clip-path="url(#clippath-4)" id="SvgjsG1203">
+      <g id="SvgjsG1202">
+        <path id="SvgjsPath1201" class="cls-1" d="m178.4,339.59l-65.87-105.8H45.87l-65.87,105.8h198.39Z"></path>
+      </g>
+    </g>
+    <g class="cls-31" clip-path="url(#clippath-5)" id="SvgjsG1200">
+      <g id="SvgjsG1199">
+        <path id="SvgjsPath1198" class="cls-15" d="m178.4,339.59l-65.87-105.8H45.87l-65.87,105.8h198.39Z"></path>
+      </g>
+    </g>
+    <g class="cls-14" clip-path="url(#clippath-6)" id="SvgjsG1197">
+      <g id="SvgjsG1196">
+        <path id="SvgjsPath1195" class="cls-1" d="m150.22,340.65l-36.24-97.23H44.64l-36.24,97.23h141.83Z"></path>
+      </g>
+    </g>
+    <g class="cls-16" clip-path="url(#clippath-7)" id="SvgjsG1194">
+      <g id="SvgjsG1193">
+        <path id="SvgjsPath1192" class="cls-15" d="m150.22,340.65l-36.24-97.23H44.64l-36.24,97.23h141.83Z"></path>
+      </g>
+    </g>
+    <g class="cls-27" clip-path="url(#clippath-8)" id="SvgjsG1191">
+      <g id="SvgjsG1190">
+        <path id="SvgjsPath1189" class="cls-1" d="m121.53,341.63l-16.86-190.76h-49.77l-16.87,190.76h83.5Z"></path>
+      </g>
+    </g>
+    <g class="cls-23" clip-path="url(#clippath-9)" id="SvgjsG1188">
+      <g id="SvgjsG1187">
+        <path id="SvgjsPath1186" class="cls-15" d="m121.53,341.63l-16.86-190.76h-49.77l-16.87,190.76h83.5Z"></path>
+      </g>
+    </g>
+    <g class="cls-32" clip-path="url(#clippath-10)" id="SvgjsG1185">
+      <g id="SvgjsG1184">
+        <g class="cls-6" clip-path="url(#clippath-11)" id="SvgjsG1183">
+          <g id="SvgjsG1182">
+            <g id="SvgjsG1181">
+              <path id="SvgjsPath1180" class="cls-1" d="m141.33,70.42c-.15-9.63,10.51-17.53,23.8-17.64,13.07-.1,23.86,7.37,24.32,16.84l-24.05.61-24.07.19Z"></path>
+            </g>
+            <g id="SvgjsG1179">
+              <path id="SvgjsPath1178" class="cls-15" d="m141.33,70.42c-.15-9.63,10.51-17.53,23.8-17.64,13.07-.1,23.86,7.37,24.32,16.84l-24.05.61-24.07.19Z"></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-20" clip-path="url(#clippath-12)" id="SvgjsG1177">
+      <g id="SvgjsG1176">
+        <path id="SvgjsPath1175" class="cls-1" d="m208.15,95.71l-27.11,30.74h-31.28l-27.12-30.74h85.51Z"></path>
+      </g>
+    </g>
+    <g class="cls-12" clip-path="url(#clippath-13)" id="SvgjsG1174">
+      <g id="SvgjsG1173">
+        <path id="SvgjsPath1172" class="cls-15" d="m208.15,95.71l-27.11,30.74h-31.28l-27.12-30.74h85.51Z"></path>
+      </g>
+    </g>
+    <g class="cls-29" clip-path="url(#clippath-14)" id="SvgjsG1171">
+      <g id="SvgjsG1170">
+        <path id="SvgjsPath1169" class="cls-1" d="m197.7,344.14l-18.51-213.79h-27.49l-18.51,213.79h64.51Z"></path>
+      </g>
+    </g>
+    <g class="cls-13" clip-path="url(#clippath-15)" id="SvgjsG1168">
+      <g id="SvgjsG1167">
+        <path id="SvgjsPath1166" class="cls-15" d="m197.7,344.14l-18.51-213.79h-27.49l-18.51,213.79h64.51Z"></path>
+      </g>
+    </g>
+    <g class="cls-7" clip-path="url(#clippath-16)" id="SvgjsG1165">
+      <g id="SvgjsG1164">
+        <g class="cls-30" clip-path="url(#clippath-17)" id="SvgjsG1163">
+          <g id="SvgjsG1162">
+            <g id="SvgjsG1161">
+              <path id="SvgjsPath1160" class="cls-9" d="m165.39,52.78l-.61-101.14"></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-28" clip-path="url(#clippath-18)" id="SvgjsG1159">
+      <g id="SvgjsG1158">
+        <path id="SvgjsPath1157" class="cls-1" d="m127.4,92.02l8.44-18.01h58.36l8.44,18.01h-75.24Z"></path>
+      </g>
+    </g>
+    <g class="cls-25" clip-path="url(#clippath-19)" id="SvgjsG1156">
+      <g id="SvgjsG1155">
+        <path id="SvgjsPath1154" class="cls-15" d="m127.4,92.02l8.44-18.01h58.36l8.44,18.01h-75.24Z"></path>
+      </g>
+    </g>
+    <g class="cls-5" clip-path="url(#clippath-20)" id="SvgjsG1153">
+      <g id="SvgjsG1152">
+        <path id="SvgjsPath1151" class="cls-4" d="m256.55,265.4v67.03c0,1.25.31,2.19.94,2.81.94.63,2.03.94,3.28.94h2.34v2.81h-20.62v-2.81h2.34c1.56,0,2.66-.31,3.28-.94.62-.63.94-1.56.94-2.81v-34.22h-27.66v34.22c0,1.25.31,2.19.94,2.81.94.63,2.03.94,3.28.94h2.34v2.81h-20.62v-2.81h2.34c1.56,0,2.66-.31,3.28-.94.62-.63.94-1.56.94-2.81v-67.03c0-1.25-.31-2.19-.94-2.81-.63-.63-1.72-.94-3.28-.94h-1.88v-2.81h19.69v2.81h-1.88c-1.25,0-2.34.31-3.28.94-.62.63-.94,1.56-.94,2.81v30h27.66v-30c0-1.25-.31-2.19-.94-2.81-.63-.63-1.72-.94-3.28-.94h-1.88v-2.81h19.69v2.81h-1.87c-1.25,0-2.34.31-3.28.94-.63.63-.94,1.56-.94,2.81Z"></path>
+      </g>
+    </g>
+    <g class="cls-17" clip-path="url(#clippath-21)" id="SvgjsG1150">
+      <g id="SvgjsG1149">
+        <path id="SvgjsPath1148" class="cls-4" d="m281.3,334.58c2.25,1.75,5.12,2.62,8.63,2.62,3.75,0,6.88-1.25,9.38-3.75,2.75-2.5,4.13-5.62,4.13-9.38v-43.5c0-1-.25-1.75-.75-2.25s-1.38-.75-2.62-.75h-2.25v-2.25h13.5v2.25h-2.25c-1,0-1.88.25-2.62.75-.5.5-.75,1.25-.75,2.25v43.5c0,5-1.75,9-5.25,12-3.25,2.75-7,4.13-11.25,4.13-4.5,0-8.5-1.25-12-3.75-3.25-2.5-4.88-6.5-4.88-12v-43.88c0-1-.25-1.75-.75-2.25s-1.38-.75-2.62-.75h-1.87v-2.25h16.5v2.25h-1.87c-1,0-1.88.25-2.62.75-.5.5-.75,1.25-.75,2.25v43.88c0,5,1,8.37,3,10.13h0Z"></path>
+        <path id="SvgjsPath1147" class="cls-4" d="m338.68,339.46h-23.63v-2.25h3c1.25,0,2.12-.25,2.62-.75.5-.5.75-1.25.75-2.25v-53.63c0-1-.25-1.75-.75-2.25s-1.38-.75-2.62-.75h-2.25v-2.25h21.75c6,0,10.38,1.25,13.12,3.75,3,2.25,4.5,5.88,4.5,10.87,0,3.5-.75,6.38-2.25,8.63s-4.62,4.25-9.38,6c5.75,1.75,9.63,4.25,11.63,7.5,2,3.25,3,6.88,3,10.87,0,5-1.75,9-5.25,12-3.5,3-8.25,4.5-14.25,4.5h0Zm-7.88-2.25h6.75c4.25,0,7.5-1.25,9.75-3.75,2.5-2.75,3.75-6.5,3.75-11.25,0-5.5-1.25-9.5-3.75-12-2.5-2.75-6.25-4.13-11.25-4.13h-8.63v28.12c0,1,.25,1.75.75,2.25.75.5,1.63.75,2.63.75h0Zm14.25-36.75c2.5-2.25,3.75-5.75,3.75-10.5,0-4.5-1.25-7.62-3.75-9.38-2.5-2-5.75-3-9.75-3h-4.5c-1,0-1.88.25-2.63.75-.5.5-.75,1.25-.75,2.25v23.25h9.75c2.75,0,5.37-1.13,7.88-3.38Z"></path>
+      </g>
+    </g>
+    <g class="cls-22" clip-path="url(#clippath-22)" id="SvgjsG1146">
+      <g id="SvgjsG1145">
+        <path id="SvgjsPath1144" class="cls-10" d="m-55.6,341.92h463.26"></path>
+      </g>
+    </g>
+    <g class="cls-33" clip-path="url(#clippath-23)" id="SvgjsG1143">
+      <g id="SvgjsG1142">
+        <path id="SvgjsPath1141" class="cls-3" d="m105.02,324.78l-7.89-34.71h-35.5l-7.1,29.98c-1.05,4.73-1.05,8.68,0,11.83,1.05,2.63,3.42,3.94,7.1,3.94h2.37v4.73h-29.19v-4.73h2.37c2.1,0,3.94-.53,5.52-1.58,1.58-1.58,2.63-3.94,3.16-7.1l30.77-120.7,11.83-3.94,29.98,124.65c1.05,3.16,2.37,5.52,3.94,7.1,1.58,1.05,3.42,1.58,5.52,1.58h2.37v4.73h-33.92v-4.73h3.16c3.16,0,5-.79,5.52-2.37,1.05-2.1,1.05-5,0-8.68h0Zm-8.68-39.45l-15.78-65.48h-.79l-16.57,65.48h33.13Z"></path>
+      </g>
+    </g>
+    <g class="cls-21" clip-path="url(#clippath-24)" id="SvgjsG1140">
+      <g id="SvgjsG1139">
+        <path id="SvgjsPath1138" class="cls-3" d="m152.73,210.57h-17.97v-4.69h62.51v4.69h-17.97c-2.08,0-3.91.52-5.47,1.56-1.04,1.04-1.56,2.6-1.56,4.69v111.74c0,2.08.52,3.65,1.56,4.69,1.56,1.04,3.39,1.56,5.47,1.56h17.97v4.69h-62.51v-4.69h17.97c2.6,0,4.43-.52,5.47-1.56,1.04-1.04,1.56-2.6,1.56-4.69v-111.74c0-2.08-.52-3.65-1.56-4.69s-2.87-1.56-5.47-1.56Z"></path>
+      </g>
+    </g>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
