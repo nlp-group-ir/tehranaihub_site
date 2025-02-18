@@ -82,6 +82,14 @@ h6 {
     margin: 0 auto;
 }
 
+.img-padded {
+    padding: 20px;
+}
+
+.img-circle {
+    border-radius:20%;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
