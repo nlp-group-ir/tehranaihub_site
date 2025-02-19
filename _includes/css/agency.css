@@ -644,7 +644,7 @@ timeline-body-right {
 }
 
 @media(min-width:992px) {
-    .timeline-body-right {
+    .timeline-body-left {
         text-align: left;
     }
 
@@ -674,8 +674,8 @@ timeline-body-right {
 }
 
 @media(min-width:1200px) {
-    .timeline-body-right {
-        text-align: left;
+    .timeline-body-left {
+        text-align: right;
     }
 
     .timeline>li {
