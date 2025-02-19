@@ -83,7 +83,7 @@ h6 {
 }
 
 .img-padded {
-    padding: 20px;
+    padding: 30px;
 }
 
 .img-circle {
@@ -644,10 +644,6 @@ section h3.section-subheading {
 }
 
 @media(min-width:992px) {
-    .timeline-body-left {
-        text-align: left;
-    }
-
     .timeline>li {
         min-height: 150px;
     }
