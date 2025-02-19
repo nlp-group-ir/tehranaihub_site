@@ -593,6 +593,14 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+timeline-body-right {
+    text-align: right;
+    list-style-type: disc;
+    float: left;
+}
+
+
+
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
@@ -636,6 +644,10 @@ section h3.section-subheading {
 }
 
 @media(min-width:992px) {
+    .timeline-body-right {
+        text-align: left;
+    }
+
     .timeline>li {
         min-height: 150px;
     }
@@ -662,6 +674,10 @@ section h3.section-subheading {
 }
 
 @media(min-width:1200px) {
+    .timeline-body-right {
+        text-align: left;
+    }
+
     .timeline>li {
         min-height: 170px;
     }
