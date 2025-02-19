@@ -593,7 +593,7 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-timeline-body-right {
+.timeline-body-right {
     text-align: right;
     list-style-type: disc;
     float: left;
