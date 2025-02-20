@@ -606,6 +606,13 @@ section h3.section-subheading {
     float: left;
 }
 
+@media(max-width:767px) {
+    .timeline-body-left {
+        text-align: right;
+        list-style-type: disc;
+        float: left;
+    }
+}
 
 
 .timeline .timeline-body>p,
@@ -677,10 +684,6 @@ section h3.section-subheading {
 }
 
 @media(min-width:1200px) {
-    .timeline-body-left {
-        text-align: right;
-    }
-
     .timeline>li {
         min-height: 170px;
     }
